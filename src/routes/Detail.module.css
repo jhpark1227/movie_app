@@ -1,0 +1,47 @@
+.movie{
+    width: 50%;
+    margin-top:10px;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0 13px 27px -5px rgba(50, 50, 93, 0.25),
+      0 8px 16px -8px rgba(0, 0, 0, 0.3), 0 -6px 16px -6px rgba(0, 0, 0, 0.025);
+}
+
+.container{
+ 
+}
+
+.title{
+    padding: 1%;
+}
+
+.detail{
+    padding: 1%;
+}
+
+#goHome{
+    margin-bottom: 5px;
+    font-size: 24px;
+    color: #2c2c2c;
+    text-decoration: none;
+}
+
+.button{
+    margin-top: 5%;
+    margin-left: 25%;
+    width: 50px;
+    background-color: white;
+    font-weight: 300;
+    text-decoration: none;
+    color: inherit;
+    box-shadow: 0 13px 27px -5px rgba(50, 50, 93, 0.25),
+      0 8px 16px -8px rgba(0, 0, 0, 0.3), 0 -6px 16px -6px rgba(0, 0, 0, 0.025);
+}
+.button a{
+    margin-bottom: 5px;
+    font-size: 24px;
+    color: #2c2c2c;
+    text-decoration: none;
+}
